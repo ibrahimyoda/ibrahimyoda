@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
-- [Ufw firewall](https://github.com/jabeno16/Stronghold-Firewall)
-- [Qualys vulnerability management detection and response lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- [Kali linux UFW firewall Graphical user interface (GUI) creation project](https://github.com/jabeno16/Stronghold-Firewall)
+- [Qualys vulnerability management detection and response lab](https://github.com/jabeno16/Stronghold-Firewall)
 
 
 <h2>📜 Certifications:</h2>
 
-- [AWS Certfied Cloud Practioner](https://www.credly.com/badges/083cb573-6251-41cc-9483-0c945d285442/linked_in_profile)
+- [AWS Certified Cloud Practioner](https://www.credly.com/badges/083cb573-6251-41cc-9483-0c945d285442/linked_in_profile)
 - [CompTIA security+ ce ](https://www.credly.com/badges/c0f1b68e-aa02-4fa2-837b-bbd2a17bd172/linked_in_profile)
 - [Qualys vulnerability management detection and response certificate ](https://drive.google.com/file/d/1kasRX4ozB52JVBmI-e5PPT8omzFRB0_J/view)
 
