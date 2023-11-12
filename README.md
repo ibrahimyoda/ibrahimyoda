@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
-- [Ufw firewall](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Ufw firewall](https://github.com/jabeno16/Stronghold-Firewall)
 - [Qualys vulnerability management detection and response lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 
