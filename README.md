@@ -20,6 +20,8 @@
 
 
 <h2>📜Certfifications:</h2>
+- [AWS Certified Cloud Practioner](https://www.credly.com/badges/083cb573-6251-41cc-9483-0c945d285442/linked_in_profile)
+
 <h2>📺Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
