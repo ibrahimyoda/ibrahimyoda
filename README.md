@@ -4,6 +4,7 @@
 
 - [Kali linux UFW firewall Graphical user interface (GUI) creation project](https://github.com/jabeno16/Stronghold-Firewall)
 - [Qualys vulnerability management detection and response lab](https://github.com/ibrahimyoda/Qualys-vulnerability-scanning-lab/blob/main/README.md)
+- [Qradar installation and logs forwarding lab](https://github.com/ibrahimyoda/Qradar-lab/blob/main/README.md)
 
 
 <h2>📜 Certifications:</h2>
